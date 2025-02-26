@@ -8,12 +8,20 @@ Identify the key factors driving customer churn and understand why customers are
 
 ## Questions(KPIs)
 
-Churn by country?
-Churn by Gender?
-Churn by Card type?
-Churn by Complaints?
-Churn by Credit score?
-Churn by Age?
-Total Customers?
-Total exited?
-Average of salary?
+-Churn by country?
+
+-Churn by Gender?
+
+-Churn by Card type?
+
+-Churn by Complaints?
+
+-Churn by Credit score?
+
+-Churn by Age?
+
+-Total Customers?
+
+-Total exited?
+
+-Average of salary?
